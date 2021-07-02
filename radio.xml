@@ -1,0 +1,114 @@
+<STATIONS>
+    <STATION>
+        <NAME>BBC</NAME>
+        <FULL_NAME>World service</FULL_NAME>
+        <URL>https://stream.live.vc.bbcmedia.co.uk/bbc_world_service</URL>
+        <LOGO>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>ALJAZEERA</NAME>
+        <FULL_NAME>English live</FULL_NAME>
+        <URL>https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8</URL>
+        <LOGO>https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly.png?itok=kjv_zb3X</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>ABC</NAME>
+        <FULL_NAME>News Australia</FULL_NAME>
+        <URL>https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8</URL>
+        <LOGO>https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>VOA</NAME>
+        <FULL_NAME>The voice of America</FULL_NAME>
+        <URL>https://voavaudio-i.akamaihd.net/hls/live/826546-b/VOAV_MC1_MRG/master.m3u8</URL>
+        <LOGO>https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>FOX</NAME>
+        <FULL_NAME>News live</FULL_NAME>
+        <URL>https://streaming-ent.shoutcast.com/foxnews</URL>
+        <LOGO>https://hamariweb.com/mobiles/images/appslogo/740.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>MSNBC</NAME>
+        <FULL_NAME>News live</FULL_NAME>
+        <URL>http://wrau.streamguys1.com/msnbc-free</URL>
+        <LOGO>https://fontmeme.com/images/MSNBC-Logo.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>LIFE</NAME>
+        <FULL_NAME>Radio Tirol</FULL_NAME>
+        <URL>https://liferadiotirol.apa.at:8000/</URL>
+        <LOGO>https://www.liferadio.tirol/songinfo/images/logowerbung.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>ERENA</NAME>
+        <FULL_NAME>Eritrea News live</FULL_NAME>
+        <URL>https://node-07.zeno.fm/u8h8qa8z4neuv?rj-ttl=5&amp;rj-tok=AAABd8uI7-YAR4YltB6IQ8KWhA</URL>
+        <LOGO>https://sophietm7.files.wordpress.com/2016/10/radio-erena.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>CNN</NAME>
+        <FULL_NAME>International live</FULL_NAME>
+        <URL>https://tunein.streamguys1.com/cnn-new?ads.cust_params=partnerId%253dydvgH5BP%2526ads_partner_alias%253dydvgH5BP%2526premium%253dfalse%2526abtest%253d%2526language%253den-US%2526stationId%253ds20407%2526is_ondemand%253dfalse%2526genre_id%253dg3124%2526class%253dtalk%25252cspoken%25252cnews%2526is_family%253dfalse%2526is_mature%253dfalse%2526country_region_id%253d227%2526station_language%253denglish%2526programId%253dp494645%2526is_event%253dfalse&amp;url=https%3a%2f%2ftunein.com%2fdesc%2fs20407%2f&amp;description_url=https%3a%2f%2ftunein.com%2fdesc%2fs20407%2f&amp;ads.npa=1&amp;ads.gdfp_req=1&amp;aw_0_1st.playerid=ydvgH5BP&amp;aw_0_1st.skey=1614115955&amp;aw_0_1st.platform=tunein</URL>
+        <LOGO>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>NPR</NAME>
+        <FULL_NAME>Public Radio live</FULL_NAME>
+        <URL>https://npr-ice.streamguys1.com/live.mp3?ck=1614284100828</URL>
+        <LOGO>https://cdn.freelogovectors.net/wp-content/uploads/2020/02/npr-logo.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>COUNTRY 108</NAME>
+        <FULL_NAME>Music Radio</FULL_NAME>
+        <URL>http://icepool.silvacast.com/COUNTRY108.mp3</URL>
+        <LOGO>https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>BRIT-COM 1</NAME>
+        <FULL_NAME>Comedy Channel</FULL_NAME>
+        <URL>https://streaming02.zfast.co.uk/proxy/britcom1?mp=/stream</URL>
+        <LOGO>https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>BRIT-COM 2</NAME>
+        <FULL_NAME>Comedy Channel</FULL_NAME>
+        <URL>https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream</URL>
+        <LOGO>https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>CBC</NAME>
+        <FULL_NAME>News live</FULL_NAME>
+        <URL>https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8</URL>
+        <LOGO>https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/537px-CBC_News_Logo.svg.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>HITSRADIO</NAME>
+        <FULL_NAME>American Comedy Channel</FULL_NAME>
+        <URL>https://18843.live.streamtheworld.com/977_COMEDY_SC</URL>
+        <LOGO>https://www.radio.at/images/broadcasts/8d/76/3600/1/c300.png</LOGO>
+        
+    </STATION>
+    <STATION>
+        <NAME>REGGAE</NAME>
+        <FULL_NAME>Music Channel</FULL_NAME>
+        <URL>https://jahfari.stream.laut.fm/jahfari?ref=web–app&amp;start_time=1614545756561&amp;t302=2021–02–28_21–55–56&amp;uuid=276b9708–21ee–4080–ad95–05b6f5230143</URL>
+        <LOGO>https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png</LOGO>
+        
+    </STATION>
+</STATIONS>
