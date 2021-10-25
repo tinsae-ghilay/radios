@@ -4,35 +4,30 @@
         <FULL_NAME>World service</FULL_NAME>
         <URL>https://stream.live.vc.bbcmedia.co.uk/bbc_world_service</URL>
         <LOGO>https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png</LOGO>
-        
     </STATION>
     <STATION>
         <NAME>ALJAZEERA</NAME>
         <FULL_NAME>English live</FULL_NAME>
         <URL>https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8</URL>
         <LOGO>https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly.png?itok=kjv_zb3X</LOGO>
-        
     </STATION>
     <STATION>
         <NAME>ABC</NAME>
         <FULL_NAME>News Australia</FULL_NAME>
         <URL>https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8</URL>
-        <LOGO>https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg</LOGO>
-        
+        <LOGO>https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg</LOGO> 
     </STATION>
     <STATION>
         <NAME>VOA</NAME>
         <FULL_NAME>The voice of America</FULL_NAME>
         <URL>https://voavaudio-i.akamaihd.net/hls/live/826546-b/VOAV_MC1_MRG/master.m3u8</URL>
-        <LOGO>https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png</LOGO>
-        
+        <LOGO>https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png</LOGO>   
     </STATION>
     <STATION>
         <NAME>FOX</NAME>
         <FULL_NAME>News live</FULL_NAME>
         <URL>https://streaming-ent.shoutcast.com/foxnews</URL>
         <LOGO>https://hamariweb.com/mobiles/images/appslogo/740.jpg</LOGO>
-        
     </STATION>
     <STATION>
         <NAME>MSNBC</NAME>
