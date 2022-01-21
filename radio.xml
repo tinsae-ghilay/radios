@@ -54,6 +54,12 @@
         <LOGO>https://dbs.radioline.fr/pictures/radio_66970839219b41d0c51d8c1770fb08c4/logo200.jpg</LOGO>
     </STATION>
     <STATION>
+        <NAME>ERITIGRAY</NAME>
+        <FULL_NAME> Tigrinya radio</FULL_NAME>
+        <URL>http://linuxfreelancer.com:8000/;stream.mp3</URL>
+        <LOGO>https://www.fidelacademy.com/wp-content/uploads/2021/03/Fidel-Academy--300x300.png</LOGO>
+    </STATION>
+    <STATION>
         <NAME>CNN</NAME>
         <FULL_NAME>International live</FULL_NAME>
         <URL>https://tunein.streamguys1.com/cnn-new?ads.cust_params=partnerId%253dydvgH5BP%2526ads_partner_alias%253dydvgH5BP%2526premium%253dfalse%2526abtest%253d%2526language%253den-US%2526stationId%253ds20407%2526is_ondemand%253dfalse%2526genre_id%253dg3124%2526class%253dtalk%25252cspoken%25252cnews%2526is_family%253dfalse%2526is_mature%253dfalse%2526country_region_id%253d227%2526station_language%253denglish%2526programId%253dp494645%2526is_event%253dfalse&amp;url=https%3a%2f%2ftunein.com%2fdesc%2fs20407%2f&amp;description_url=https%3a%2f%2ftunein.com%2fdesc%2fs20407%2f&amp;ads.npa=1&amp;ads.gdfp_req=1&amp;aw_0_1st.playerid=ydvgH5BP&amp;aw_0_1st.skey=1614115955&amp;aw_0_1st.platform=tunein</URL>
@@ -91,7 +97,7 @@
     </STATION>
     <STATION>
         <NAME>HITSRADIO</NAME>
-        <FULL_NAME>American Comedy Channel</FULL_NAME>
+        <FULL_NAME>Comedy Channel</FULL_NAME>
         <URL>https://18843.live.streamtheworld.com/977_COMEDY_SC</URL>
         <LOGO>https://www.radio.at/images/broadcasts/8d/76/3600/1/c300.png</LOGO>
     </STATION>
