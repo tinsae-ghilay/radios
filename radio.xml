@@ -113,10 +113,10 @@
     </STATION>
     <STATION>
         <NAME>HITSRADIO</NAME>
-        <FULL_NAME>Comedy Channel</FULL_NAME>
-        <URL>https://18843.live.streamtheworld.com/977_COMEDY_SC</URL>
-        <LOGO>https://www.radio.at/images/broadcasts/8d/76/3600/1/c300.png</LOGO>
-        <TYPE>Comedy</TYPE>
+        <FULL_NAME>Dance music</FULL_NAME>
+        <URL>https://stream.rcast.net/66070</URL>
+        <LOGO>https://hitsradio.ee/wp-content/uploads/2021/07/hitsradio-n-300x300.png</LOGO>
+        <TYPE>Music</TYPE>
     </STATION>
     <STATION>
         <NAME> REGGAE</NAME>
