@@ -65,7 +65,7 @@
     <STATION>
         <NAME>TIGRINYA</NAME>
         <FULL_NAME> Tigrinya radio</FULL_NAME>
-        <URL>http://linuxfreelancer.com:8000/;stream.mp3</URL>
+        <URL>http://162.247.78.0:8000/test.mp3</URL>
         <LOGO>https://www.fidelacademy.com/wp-content/uploads/2021/03/Fidel-Academy--300x300.png</LOGO>
         <TYPE>Music</TYPE>
     </STATION>
