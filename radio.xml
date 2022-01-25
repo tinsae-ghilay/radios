@@ -105,6 +105,13 @@
         <TYPE>Comedy</TYPE>
     </STATION>
     <STATION>
+        <NAME>BCR</NAME>
+        <FULL_NAME>British comedy</FULL_NAME>
+        <URL>http://185.80.221.113:7550/stream</URL>
+        <LOGO>https://cdn-radiotime-logos.tunein.com/s257747d.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
         <NAME>CBC</NAME>
         <FULL_NAME>News live</FULL_NAME>
         <URL>https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8</URL>
