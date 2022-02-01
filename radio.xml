@@ -112,6 +112,83 @@
         <TYPE>Comedy</TYPE>
     </STATION>
     <STATION>
+        <NAME>BBC 4 </NAME>
+        <FULL_NAME>bbc 4 extra</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra</URL>
+        <LOGO>https://www.liveradio.ie/files/images/314816/resized/180x172c/bbc_radio_4_extra.jpg</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>ABACUS </NAME>
+        <FULL_NAME>Comedy Radio Vancouver</FULL_NAME>
+        <URL>http://185.80.221.113:7550/;</URL>
+        <LOGO>http://sradiospush-10741.kxcdn.com/uploads/fm_7925.jpg</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>820hz</NAME>
+        <FULL_NAME>820hz comunity</FULL_NAME>
+        <URL>http://radio.820hz.fm/main.mp3</URL>
+        <LOGO>https://cdn-radiotime-logos.tunein.com/s278481d.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>DASH COMEDY</NAME>
+        <FULL_NAME>8With Marcus King</FULL_NAME>
+        <URL>http://ice55.securenetsystems.net/DASH67</URL>
+        <LOGO>https://clipart.world/wp-content/uploads/2021/05/Radio-clipart-transparent-background-2.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>PUMPKIN FM</NAME>
+        <FULL_NAME>Pumpkin fm one</FULL_NAME>
+        <URL>http://149.255.59.164:8090/;</URL>
+        <LOGO>https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>PUMPKIN FM</NAME>
+        <FULL_NAME>Pumpkin fm Encore</FULL_NAME>
+        <URL>http://149.255.59.164:8061/;</URL>
+        <LOGO>https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>BBC 1 </NAME>
+        <FULL_NAME>bbc 1 extra</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra</URL>
+        <LOGO>https://i1.sndcdn.com/artworks-000137708994-p2wlbp-t500x500.jpg</LOGO>
+        <TYPE>Music</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>BBC 2 </NAME>
+        <FULL_NAME>bbc radio 2</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two</URL>
+        <LOGO>https://www.radio.at/images/broadcasts/88/e1/3244/1/c300.png</LOGO>
+        <TYPE>Music</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>BBC 4 FM </NAME>
+        <FULL_NAME>bbc radio 4 fm</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm</URL>
+        <LOGO>https://ichef.bbci.co.uk/images/ic/192x192/p06rrsxf.jpg</LOGO>
+        <TYPE>Drama</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>BBC ONE</NAME>
+        <FULL_NAME>bbc radio 1</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one</URL>
+        <LOGO>https://www.getmeradio.com/stations/bbcradio1-2489/logos/512x512.png</LOGO>
+        <TYPE>Art</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>BBC 3</NAME>
+        <FULL_NAME>bbc radio 3</FULL_NAME>
+        <URL>http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three</URL>
+        <LOGO>https://www.radio.at/images/broadcasts/0e/1e/3245/1/c300.png</LOGO>
+        <TYPE>Talk</TYPE>
+    </STATION>
+    <STATION>
         <NAME>CBC</NAME>
         <FULL_NAME>News live</FULL_NAME>
         <URL>https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8</URL>
