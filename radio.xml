@@ -119,10 +119,24 @@
         <TYPE>Comedy</TYPE>
     </STATION>
     <STATION>
+        <NAME>COMEDY 104</NAME>
+        <FULL_NAME>Comedy 104</FULL_NAME>
+        <URL>http://ais-sa5.cdnstream1.com/b42761_64mp3</URL>
+        <LOGO>https://www.radio.net/images/broadcasts/f4/18/23092/1/c300.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
         <NAME>820hz</NAME>
         <FULL_NAME>820hz comunity</FULL_NAME>
         <URL>http://radio.820hz.fm/main.mp3</URL>
         <LOGO>https://cdn-radiotime-logos.tunein.com/s278481d.png</LOGO>
+        <TYPE>Comedy</TYPE>
+    </STATION>
+    <STATION>
+        <NAME>HITRADIO</NAME>
+        <FULL_NAME>Comedy radio</FULL_NAME>
+        <URL>https://26103.live.streamtheworld.com/977_COMEDY.mp3</URL>
+        <LOGO>https://www.radio.net/images/broadcasts/0f/d6/8745/1/c300.png</LOGO>
         <TYPE>Comedy</TYPE>
     </STATION>
     <STATION>
