@@ -56,13 +56,6 @@
         <TYPE>General</TYPE>
     </STATION>
     <STATION>
-        <NAME>NSELAM</NAME>
-        <FULL_NAME> Live radio</FULL_NAME>
-        <URL>https://stream.radio.co/s99c8215ee/listen</URL>
-        <LOGO>https://dbs.radioline.fr/pictures/radio_66970839219b41d0c51d8c1770fb08c4/logo200.jpg</LOGO>
-        <TYPE>General</TYPE>
-    </STATION>
-    <STATION>
         <NAME>TIGRINYA</NAME>
         <FULL_NAME> Tigrinya radio</FULL_NAME>
         <URL>http://162.247.78.0:8000/test.mp3</URL>
