@@ -148,14 +148,14 @@
     </STATION>
     <STATION>
         <NAME>PUMPKIN FM</NAME>
-        <FULL_NAME>Pumpkin fm one</FULL_NAME>
+        <FULL_NAME>one</FULL_NAME>
         <URL>http://149.255.59.164:8090/;</URL>
         <LOGO>https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png</LOGO>
         <TYPE>Comedy</TYPE>
     </STATION>
     <STATION>
         <NAME>PUMPKIN FM</NAME>
-        <FULL_NAME>Pumpkin fm Encore</FULL_NAME>
+        <FULL_NAME>Encore</FULL_NAME>
         <URL>http://149.255.59.164:8061/;</URL>
         <LOGO>https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png</LOGO>
         <TYPE>Comedy</TYPE>
