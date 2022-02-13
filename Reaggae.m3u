@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: tvg-logo = "https://www.phonostar.de/images/auto_created/boom_station184x184.png" group-title = "REGGAE Radio" tvg-name = "Boomstation" tvg-title = " Boomstation Nyc "
 http://s10.voscast.com:9588/stream
-#EXTINF: tvg-logo = "https://www.radio.pervii.com/logo/97181.jpg" group-title = "REGGAE Radio" tvg-name = "La Grosse Radio Reggae " tvg-title = " La Grosse Radio Reggae - Dub Dancehall Roots - From Paris - www.LaGrosseRadio.com"
+#EXTINF: tvg-logo = "https://www.radio.pervii.com/logo/97181.jpg" group-title = "REGGAE Radio" tvg-name = "La Grosse Radio Reggae " tvg-title = " La Grosse Radio Reggae - Dub Dancehall Roots - From Paris"
 http://hd.lagrosseradio.info:8000/lagrosseradio-reggae-192.mp3
 #EXTINF: tvg-logo = "https://www.radio.pervii.com/im/7/1551266037.jpg" group-title = "REGGAE Radio" tvg-name = "Vibesfm.net " tvg-title = " Vibesfm.net"
 http://s02.whooshserver.net:9091/live.mp3
