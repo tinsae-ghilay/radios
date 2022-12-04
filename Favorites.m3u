@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF: tvg-logo = "https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png" group-title = "News" tvg-name = "BBC" tvg-title = "World service"
+#EXTINF: tvg-logo = "https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png" group-title = "News" tvg-name = "BBC" tvg-title = "Bbc World service"
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF: tvg-logo = "https://network.aljazeera.net/themes/custom/partner/logo.svg" group-title = "News" tvg-name = "ALJAZEERA" tvg-title = "English live"
+#EXTINF: tvg-logo = "https://network.aljazeera.net/themes/custom/partner/logo.svg" group-title = "News" tvg-name = "ALJAZEERA" tvg-title = "Aljazeera English live"
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
-#EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-name = "ABC" tvg-title = "News Australia"
+#EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-name = "ABC" tvg-title = "Abc News Australia"
 https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8
 #EXTINF: tvg-logo = "https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title = "News" tvg-name = "VOA" tvg-title = "The voice of America"
 http://voa-28.akacast.akamaistream.net
-#EXTINF: tvg-logo = "https://hamariweb.com/mobiles/images/appslogo/740.jpg" group-title = "News" tvg-name = "FOX" tvg-title = "News live"
+#EXTINF: tvg-logo = "https://hamariweb.com/mobiles/images/appslogo/740.jpg" group-title = "News" tvg-name = "FOX" tvg-title = "Fox News network live"
 https://streaming-ent.shoutcast.com/foxnews
 #EXTINF: tvg-logo = "https://fontmeme.com/images/MSNBC-Logo.jpg" group-title = "News" tvg-name = "MSNBC" tvg-title = "News live"
 http://wrau.streamguys1.com/msnbc-free
-#EXTINF: tvg-logo = "https://www.liferadio.tirol/songinfo/images/logowerbung.jpg" group-title = "Music" tvg-name = "LIFE" tvg-title = "Radio Tirol"
+#EXTINF: tvg-logo = "https://www.liferadio.tirol/songinfo/images/logowerbung.jpg" group-title = "Music" tvg-name = "LIFE" tvg-title = "Life Radio Tirol"
 https://liferadiotirol.apa.at:8000/
 #EXTINF: tvg-logo = "https://sophietm7.files.wordpress.com/2016/10/radio-erena.png" group-title = "General" tvg-name = "ERENA" tvg-title = "Eritrea News live"
 http://node-02.zeno.fm/u8h8qa8z4neuv
 #EXTINF: tvg-logo = "https://www.fidelacademy.com/wp-content/uploads/2021/03/Fidel-Academy--300x300.png" group-title = "Music" tvg-name = "TIGRINYA" tvg-title = " Tigrinya radio"
 http://162.247.78.0:8000/test.mp3
-#EXTINF: tvg-logo = "https://cdn.iconscout.com/icon/free/png-256/cnn-2-283243.png" group-title = "News" tvg-name = "CNN" tvg-title = "International live"
+#EXTINF: tvg-logo = "https://cdn.iconscout.com/icon/free/png-256/cnn-2-283243.png" group-title = "News" tvg-name = "CNN" tvg-title = "Cnn International live"
 https://tunein.streamguys1.com/cnn-new
-#EXTINF: tvg-logo = "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/npr-logo.png" group-title = "Documentary" tvg-name = "NPR" tvg-title = "Public Radio live"
+#EXTINF: tvg-logo = "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/npr-logo.png" group-title = "Documentary" tvg-name = "NPR" tvg-title = "National Public Radio live"
 https://npr-ice.streamguys1.com/live.mp3
-#EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-name = "COUNTRY 108" tvg-title = "Music Radio"
+#EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-name = "COUNTRY 108" tvg-title = "108 country Music Radio"
 http://icepool.silvacast.com/COUNTRY108.mp3
-#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 1" tvg-title = "Comedy Channel"
+#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 1" tvg-title = "Old time Comedy Channel"
 https://streaming02.zfast.co.uk/proxy/britcom1?mp=/stream
-#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 2" tvg-title = "Comedy Channel"
+#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 2" tvg-title = "Old time Comedy Channel"
 https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream
 #EXTINF: tvg-logo = "https://cdn-radiotime-logos.tunein.com/s257747d.png" group-title = "Comedy" tvg-name = "BCR" tvg-title = "British comedy"
 http://185.80.221.113:7550/stream
