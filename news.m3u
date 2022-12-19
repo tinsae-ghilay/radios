@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: tvg-logo = "https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png" group-title = "News" tvg-name = "BBC" tvg-title = "Bbc World service"
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF: tvg-logo = "https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly.png?itok=kjv_zb3X" group-title = "News" tvg-name = "ALJAZEERA" tvg-title = "English live"
+#EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/47/5f/35826/c300.png" group-title = "News" tvg-name = "ALJAZEERA" tvg-title = "Aljazeera English live"
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-name = "ABC" tvg-title = "News Australia"
 https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8
