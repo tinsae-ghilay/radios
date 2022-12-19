@@ -15,7 +15,7 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
 http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BBC_Radio_1Xtra_launch_logo.svg/320px-BBC_Radio_1Xtra_launch_logo.svg.png" group-title = "Minority" tvg-name = "BBC 1Xtra" tvg-title = "bbc Radio 1Xtra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
-#EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/f6/75/12534/1/c300.png" group-title = "Drama" tvg-name = "BBC 4Xtra" tvg-title = "bbc radio four extra"
+#EXTINF: tvg-logo = "https://getdarker.com/wp-content/uploads/2011/11/artworks-000065677741-ufe4lp-original.png" group-title = "Drama" tvg-name = "BBC 4Xtra" tvg-title = "bbc radio four extra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF: tvg-logo = "https://i0.wp.com/mikozinet.com/wp-content/uploads/2022/08/bbc_radio_asia_network.png?w=400&ssl=1" group-title = "Minority" tvg-name = "BBC Asia" tvg-title = "bbc radio asia network"
 http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
