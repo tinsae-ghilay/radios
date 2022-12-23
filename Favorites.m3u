@@ -15,7 +15,7 @@ http://wrau.streamguys1.com/msnbc-free
 https://liferadiotirol.apa.at:8000/
 #EXTINF: tvg-logo = "https://sophietm7.files.wordpress.com/2016/10/radio-erena.png" group-title = "General" tvg-name = "ERENA" tvg-title = "Eritrea News live"
 http://node-02.zeno.fm/u8h8qa8z4neuv
-#EXTINF: tvg-logo = "https://www.fidelacademy.com/wp-content/uploads/2021/03/Fidel-Academy--300x300.png" group-title = "Music" tvg-name = "TIGRINYA" tvg-title = " Tigrinya radio"
+#EXTINF: tvg-logo = "https://o.quizlet.com/i/codrXSLL6uDEKu0Wrf8u5A.jpg" group-title = "Music" tvg-name = "TIGRINYA" tvg-title = " Tigrinya radio"
 http://162.247.78.0:8000/test.mp3
 #EXTINF: tvg-logo = "https://cdn.iconscout.com/icon/free/png-256/cnn-2-283243.png" group-title = "News" tvg-name = "CNN" tvg-title = "Cnn International live"
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnni/master.m3u8
