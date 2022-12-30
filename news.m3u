@@ -5,7 +5,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-name = "ABC" tvg-title = "News Australia"
 https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8
-#EXTINF: tvg-logo = "https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title = "News" tvg-name = "VOA" tvg-title = "The voice of America"
+#EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VOA_logo1.png/320px-VOA_logo1.png" group-title = "News" tvg-name = "VOA" tvg-title = "The voice of America"
 http://voa-28.akacast.akamaistream.net
 #EXTINF: tvg-logo = "https://hamariweb.com/mobiles/images/appslogo/740.jpg" group-title = "News" tvg-name = "FOX" tvg-title = "News live"
 https://streaming-ent.shoutcast.com/foxnews
