@@ -57,7 +57,7 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/537px-CBC_News_Logo.svg.png" group-title = "News" tvg-name = "CBC" tvg-title = "News live"
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8
-#EXTINF: tvg-logo = "https://hitsradio.ee/wp-content/uploads/2021/07/hitsradio-n-300x300.png" group-title = "Music" tvg-name = "HITSRADIO" tvg-title = "Dance music"
+#EXTINF: tvg-logo = "https://player.hitfm.rs/img/hit.png" group-title = "Music" tvg-name = "HITSRADIO" tvg-title = "Dance music"
 https://stream.rcast.net/66070
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Music" tvg-name = "JAHFARI" tvg-title = "Reggae Music"
 https://jahfari.stream.laut.fm/jahfari
