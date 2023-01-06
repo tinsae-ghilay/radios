@@ -7,7 +7,7 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF: tvg-logo = "https://ichef.bbci.co.uk/images/ic/192x192/p06rrsxf.jpg" group-title = "Drama" tvg-name = "BBC 4" tvg-title = "bbc radio 4 fm"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
-#EXTINF: tvg-logo = "https://ichef.bbci.co.uk/images/ic/192x192/p06rrsxf.jpg" group-title = "Drama" tvg-name = "BBC 4X" tvg-title = "bbc radio 4 outside"
+#EXTINF: tvg-logo = "https://ichef.bbci.co.uk/images/ic/896x504/p09l0bcm.jpg" group-title = "Drama" tvg-name = "BBC 4X" tvg-title = "bbc radio 4 outside"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BBC_Radio_Five_Live_2000-2007.svg/240px-BBC_Radio_Five_Live_2000-2007.svg.png" group-title = "Sport" tvg-name = "BBC 5" tvg-title = "bbc radio five"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
