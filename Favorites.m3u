@@ -18,7 +18,7 @@ http://node-02.zeno.fm/u8h8qa8z4neuv
 #EXTINF: tvg-logo = "https://tinsae-ghilay.github.io/res/beniAmir.png" group-title = "Music" tvg-name = "TIGRINYA" tvg-title = "Tigrinya radio"
 http://162.247.78.0:8000/test.mp3
 #EXTINF: tvg-logo = "https://cdn.iconscout.com/icon/free/png-256/cnn-2-283243.png" group-title = "News" tvg-name = "CNN" tvg-title = "Cnn International live"
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnni/master.m3u8
+https://t1.streamguys1.com/cnn-backup?5
 #EXTINF: tvg-logo = "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/npr-logo.png" group-title = "Documentary" tvg-name = "NPR" tvg-title = "National Public Radio live"
 https://npr-ice.streamguys1.com/live.mp3
 #EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-name = "COUNTRY 108" tvg-title = "108 country Music Radio"
