@@ -24,7 +24,7 @@ https://npr-ice.streamguys1.com/live.mp3
 #EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-name = "COUNTRY 108" tvg-title = "108 country Music Radio"
 http://icepool.silvacast.com/COUNTRY108.mp3
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 1" tvg-title = "Old time Comedy Channel"
-https://cast2.asurahosting.com/proxy/britcom1/stream/
+65.21.202.84:8175
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 2" tvg-title = "Old time Comedy Channel"
 https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream
 #EXTINF: tvg-logo = "https://cdn-radiotime-logos.tunein.com/s257747d.png" group-title = "Comedy" tvg-name = "BCR" tvg-title = "British comedy"
