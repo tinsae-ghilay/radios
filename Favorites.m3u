@@ -24,11 +24,9 @@ https://npr-ice.streamguys1.com/live.mp3
 #EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-name = "COUNTRY 108" tvg-title = "108 country Music Radio"
 http://icepool.silvacast.com/COUNTRY108.mp3
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 1" tvg-title = "Old time Comedy Channel"
-65.21.202.84:8175
+http://65.21.202.84:8175/stream
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title = "Comedy" tvg-name = "BRIT-COM 2" tvg-title = "Old time Comedy Channel"
-http://65.21.202.84:8022/stream?type=http
-#EXTINF: tvg-logo = "https://cdn-radiotime-logos.tunein.com/s257747d.png" group-title = "Comedy" tvg-name = "BCR" tvg-title = "British comedy"
-http://185.80.221.113:7550/stream
+http://65.21.202.84:8022/stream
 #EXTINF: tvg-logo = "https://www.liveradio.ie/files/images/314816/resized/180x172c/bbc_radio_4_extra.jpg" group-title = "Comedy" tvg-name = "BBC 4 " tvg-title = "bbc 4 extra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF: tvg-logo = "http://sradiospush-10741.kxcdn.com/uploads/fm_7925.jpg" group-title = "Comedy" tvg-name = "ABACUS " tvg-title = "Britcom - Vancouver"
