@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: tvg-logo = "https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png" group-title = "News" tvg-name = "BBC" tvg-title = "Bbc World service"
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_world_service.mpd
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/47/5f/35826/c300.png" group-title = "News" tvg-name = "ALJAZEERA" tvg-title = "Aljazeera English live"
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-name = "ABC" tvg-title = "Abc News Australia"
@@ -59,5 +59,3 @@ https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8
 https://stream.rcast.net/66070
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Music" tvg-name = "JAHFARI" tvg-title = "Reggae Music"
 https://jahfari.stream.laut.fm/jahfari
-#EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Newsc" tvg-name = "BBC" tvg-title = "BBC World Service"
-https://www.bbc.co.uk/sounds/play/live:bbc_world_service
