@@ -59,3 +59,5 @@ https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8
 https://stream.rcast.net/66070
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Music" tvg-name = "JAHFARI" tvg-title = "Reggae Music"
 https://jahfari.stream.laut.fm/jahfari
+#EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Newsc" tvg-name = "BBC" tvg-title = "BBCc"
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_world_service.mpd
