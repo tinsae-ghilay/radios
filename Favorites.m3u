@@ -7,10 +7,6 @@ https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/index.m3u8
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VOA_logo1.png/320px-VOA_logo1.png" group-title = "News" tvg-title = "VOA" tvg-name = "The voice of America"
 http://voa-28.akacast.akamaistream.net
-#EXTINF: tvg-logo = "https://hamariweb.com/mobiles/images/appslogo/740.jpg" group-title = "News" tvg-title = "FOX" tvg-name = "Fox News network live"
-https://streaming-ent.shoutcast.com/foxnews
-#EXTINF: tvg-logo = "https://fontmeme.com/images/MSNBC-Logo.jpg" group-title = "News" tvg-title = "MSNBC" tvg-name = "News live"
-http://wrau.streamguys1.com/msnbc-free
 #EXTINF: tvg-logo = "https://www.liferadio.tirol/songinfo/images/logowerbung.jpg" group-title = "Music" tvg-title = "LIFE" tvg-name = "Life Radio Tirol"
 https://liferadiotirol.apa.at:8000/
 #EXTINF: tvg-logo = "https://sophietm7.files.wordpress.com/2016/10/radio-erena.png" group-title = "General" tvg-title = "ERENA" tvg-name = "Eritrea News live"
@@ -31,12 +27,8 @@ https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream
 http://185.80.221.113:7550/stream
 #EXTINF: tvg-logo = "https://www.liveradio.ie/files/images/314816/resized/180x172c/bbc_radio_4_extra.jpg" group-title = "Comedy" tvg-title = "BBC 4 " tvg-name = "bbc 4 extra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
-#EXTINF: tvg-logo = "http://sradiospush-10741.kxcdn.com/uploads/fm_7925.jpg" group-title = "Comedy" tvg-title = "ABACUS " tvg-name = "Britcom - Vancouver"
-http://185.80.221.113:7550/;
 #EXTINF: tvg-logo = "https://www.radio.net/images/broadcasts/f4/18/23092/1/c300.png" group-title = "Comedy" tvg-title = "COMEDY 104" tvg-name = "Comedy 104"
 http://ais-sa5.cdnstream1.com/b42761_64mp3
-#EXTINF: tvg-logo = "https://cdn-radiotime-logos.tunein.com/s278481d.png" group-title = "Comedy" tvg-title = "820hz" tvg-name = "820hz comunity"
-http://radio.820hz.fm/main.mp3
 #EXTINF: tvg-logo = "https://www.radio.net/images/broadcasts/0f/d6/8745/1/c300.png" group-title = "Comedy" tvg-title = "HITRADIO" tvg-name = "Comedy radio"
 https://26103.live.streamtheworld.com/977_COMEDY.mp3
 #EXTINF: tvg-logo = "https://clipart.world/wp-content/uploads/2021/05/Radio-clipart-transparent-background-2.png" group-title = "Comedy" tvg-title = "DASH COM" tvg-name = "with Marcus King"
@@ -55,8 +47,6 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/0e/1e/3245/1/c300.png" group-title = "Talk" tvg-title = "BBC 3" tvg-name = "bbc radio 3"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
-#EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/537px-CBC_News_Logo.svg.png" group-title = "News" tvg-title = "CBC" tvg-name = "News live"
-https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8
 #EXTINF: tvg-logo = "http://www.exyuradio.net/pub/catalog/hit-fm-radio-uzivo.jpg" group-title = "Music" tvg-title = "HITSRADIO" tvg-name = "Dance music"
 https://stream.rcast.net/66070
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/6d/db/12946/1/c300.png" group-title = "Music" tvg-title = "JAHFARI" tvg-name = "Reggae Music"
