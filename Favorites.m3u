@@ -7,11 +7,11 @@ https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/index.m3u8
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VOA_logo1.png/320px-VOA_logo1.png" group-title = "News" tvg-name = "VOA" tvg-title = "The voice of America"
 http://voa-28.akacast.akamaistream.net
-#EXTINF: tvg-logo = "https://www.liferadio.tirol/songinfo/images/logowerbung.jpg" group-title = "Music" tvg-name = "LIFE" tvg-title = "Life Radio Tirol"
+#EXTINF: tvg-logo = "https://www.liferadio.tirol/songinfo/images/logowerbung.jpg" group-title = "Music" tvg-name = "LIFE"
 https://liferadiotirol.apa.at:8000/
 #EXTINF: tvg-logo = "https://sophietm7.files.wordpress.com/2016/10/radio-erena.png" group-title = "General" tvg-name = "ERENA" tvg-title = "Eritrea News live"
 http://node-02.zeno.fm/u8h8qa8z4neuv
-#EXTINF: tvg-logo = "https://tinsae-ghilay.github.io/res/beniAmir.png" group-title = "Music" tvg-name = "TIGRINYA" tvg-title = "Tigrinya radio"
+#EXTINF: tvg-logo = "https://tinsae-ghilay.github.io/res/beniAmir.png" group-title = "Music" tvg-name = "TIGRINYA"
 http://162.247.78.0:8000/test.mp3
 #EXTINF: tvg-logo = "https://cdn.iconscout.com/icon/free/png-256/cnn-2-283243.png" group-title = "News" tvg-name = "CNN" tvg-title = "Cnn International live"
 https://t1.streamguys1.com/cnn-backup?5
