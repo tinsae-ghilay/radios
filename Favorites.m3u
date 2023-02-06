@@ -20,11 +20,11 @@ https://npr-ice.streamguys1.com/live.mp3
 #EXTINF: tvg-logo = "https://static.mytuner.mobi/media/tvos_radios/eTnBYeZbVP.png" group-title = "Music" tvg-title = "COUNTRY 108" tvg-name = "108 country Music Radio"
 http://icepool.silvacast.com/COUNTRY108.mp3
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title = "Comedy" tvg-title = "BRIT-COM 1" tvg-name = "Brit-Com One"
-https://streaming02.zfast.co.uk/proxy/britcom1?mp=/stream
+http://65.21.202.84:8175/stream/
 #EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title = "Comedy" tvg-title = "BRIT-COM 2" tvg-name = "Brit-Com Two"
-https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream
-#EXTINF: tvg-logo = "https://cdn-radiotime-logos.tunein.com/s257747d.png" group-title = "Comedy" tvg-title = "BCR" tvg-name = "British comedy"
-http://185.80.221.113:7550/stream
+http://65.21.202.84:8022/stream/
+#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2022/02/BritComThreeNew300x300.jpg" group-title = "Comedy" tvg-title = "BRIT-COM 3" tvg-name = "Brit-Com Three"
+http://65.21.202.84:8200/stream/
 #EXTINF: tvg-logo = "https://www.liveradio.ie/files/images/314816/resized/180x172c/bbc_radio_4_extra.jpg" group-title = "Comedy" tvg-title = "BBC 4 " tvg-name = "bbc 4 extra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF: tvg-logo = "https://www.radio.net/images/broadcasts/f4/18/23092/1/c300.png" group-title = "Comedy" tvg-title = "COMEDY 104" tvg-name = "Comedy 104"
@@ -33,10 +33,6 @@ http://ais-sa5.cdnstream1.com/b42761_64mp3
 https://26103.live.streamtheworld.com/977_COMEDY.mp3
 #EXTINF: tvg-logo = "https://clipart.world/wp-content/uploads/2021/05/Radio-clipart-transparent-background-2.png" group-title = "Comedy" tvg-title = "DASH COM" tvg-name = "with Marcus King"
 http://ice55.securenetsystems.net/DASH67
-#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png" group-title = "Comedy" tvg-title = "PUMPKIN FM1" tvg-name = "one"
-http://149.255.59.164:8090/;
-#EXTINF: tvg-logo = "https://pumpkinfm.com/wp-content/uploads/2016/11/pumpkinfmlogo-2.png" group-title = "Comedy" tvg-title = "PUMPKIN FM2" tvg-name = "Encore"
-http://149.255.59.164:8061/;
 #EXTINF: tvg-logo = "https://i1.sndcdn.com/artworks-000137708994-p2wlbp-t500x500.jpg" group-title = "Music" tvg-title = "BBC 1 " tvg-name = "bbc 1 extra"
 http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/88/e1/3244/1/c300.png" group-title = "Music" tvg-title = "BBC 2 " tvg-name = "bbc radio 2"
