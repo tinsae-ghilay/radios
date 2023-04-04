@@ -13,7 +13,7 @@ https://liferadiotirol.apa.at:8000/
 http://node-02.zeno.fm/u8h8qa8z4neuv
 #EXTINF: tvg-logo = "https://cdn.britannica.com/34/34-050-C354DEF6/Peoples-language-areas-Horn-of-Africa.jpg?w=300&h=200&c=crop" group-title = "Music" tvg-title = "TIGRINYA" tvg-name = " Tigrinya radio"
 http://162.247.78.0:8000/test.mp3
-#EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/320px-CNN-International-Logo.svg.png" group-title = "News" tvg-title = "CNN" tvg-name = "Cnn International live"
+#EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title = "News" tvg-title = "CNN" tvg-name = "Cnn International live"
 http://tunein.streamguys1.com/CNNi?aw_0_azn.planguage=en
 #EXTINF: tvg-logo = "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/npr-logo.png" group-title = "Documentary" tvg-title = "NPR" tvg-name = "National Public Radio live"
 https://npr-ice.streamguys1.com/live.mp3
