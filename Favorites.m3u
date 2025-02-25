@@ -2,7 +2,7 @@
 #EXTINF: tvg-logo = "https://www.radio.de/images/broadcasts/dd/cb/3476/2/c300.png" group-title = "News" tvg-title = "BBC" tvg-name = "BBC World service"
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF: tvg-logo = "https://www.radio.at/images/broadcasts/47/5f/35826/c300.png" group-title = "News" tvg-title = "ALJAZEERA" tvg-name = "Aljazeera English live"
-https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
+https://live-hls-audio-aje-fa.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF: tvg-logo = "https://www.kwikkopy.com.au/wp-content/uploads/2019/04/Australian-logo-design-300x300.jpg" group-title = "News" tvg-title = "ABC" tvg-name = "Abc News Australia"
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/index.m3u8
 #EXTINF: tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VOA_logo1.png/320px-VOA_logo1.png" group-title = "News" tvg-title = "VOA" tvg-name = "The Voice of America"
